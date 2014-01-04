@@ -55,3 +55,23 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+
+## custmize
+github "osx",            "2.2.2"
+
+github "zsh",            "1.0.0" # via homebrew
+
+# local application
+github "alfred",         "1.1.7"
+github "iterm2",         "1.0.4"
+github "chrome",         "1.1.2"
+github "sublime_text_2", "1.1.2"
+github "virtualbox",     "1.0.10"
+github "skype",          "1.0.8"
+github "dropbox",        "1.2.0"
+github "keepassx",       "1.0.0"
+github "sourcetree",     "1.0.0"
+github "droplr",         "1.0.1"
+
+
